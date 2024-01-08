@@ -5,7 +5,7 @@ Parašyta programa, kuri:
 - Išveda galutinį vidurkį ir medianą.
 - Iš tekstinio failo gautus duomenis surūšiuoja pagal pavardes.
   
-##Duomenų įvedimo būdai:
+## Duomenų įvedimo būdai:
 - Duomenų įvedimas ranka.
 - Duomenų nuskaitymas iš failo.
 - Atsitiktinių (random) pažymių generavimas ranka įvestiems vardui ir pavardei.
