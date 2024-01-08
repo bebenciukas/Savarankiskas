@@ -76,3 +76,45 @@ ____________________________________________________________
 - Duomenų nuskaitymas i­š failo: 583.74800 s
 - Išskirstymas užtruko: 10.20000 s
 - Naujų failų sukūrimas: 47.54200 s
+_____________________________________________________
+_________________________________________________________________________________________
+   ## Testavimo rezultatai (deque):
+### studentai1000.txt
+
+- Bendra trukmė: 0.10400 s
+- Duomenų nuskaitymas i­š failo: 0.05700 s
+- Išskirstymas užtruko: 0.00900 s
+- Naujų failų sukūrimas: 0.00600 s
+  _______________________________________
+### studentai10000.txt
+
+- Bendra trukmė: 0.72200 s
+- Duomenų nuskaitymas i­š failo: 0.58000 s
+- Išskirstymas užtruko: 0.09400 s
+- Naujų failų sukūrimas: 0.04600 s
+   _______________________________________
+ ### studentai100000.txt
+
+- Bendra trukmė: 7.12400 s
+- Duomenų nuskaitymas i­š failo: 5.81100 s
+- Išskirstymas užtruko: 0.84100 s
+- Naujų failų sukūrimas: 0.46900 s
+   _______________________________________
+ ### studentai1000000.txt
+
+- Bendra trukmė: 71.49200 s
+- Duomenų nuskaitymas i­š failo: 57.58500 s
+- Išskirstymas užtruko: 9.26600 s
+- Naujų failų sukūrimas: 4.63800 s
+   _______________________________________
+### studentai10000000.txt
+
+- Bendra trukmė: 720.24600 s
+- Duomenų nuskaitymas i­š failo: 584.34000 s
+- Išskirstymas užtruko: 88.90000 s
+- Naujų failų sukūrimas: 47.00300 s
+   _______________________________________
+
+
+
+
