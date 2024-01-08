@@ -1,7 +1,7 @@
 ## 1 savarankiškas darbas | v0.2
 _____________________________________________________________
-## Ištestuoti 5 sukurti atsitiktinių studentų sąrašai/failai, sudaryti iš: 1 000, 10 000, 100 000, 1 000 000, 10 000 000 įrašų.
-  # Ištestuota vector|list|deque sparta.
+### Ištestuoti 5 sukurti atsitiktinių studentų sąrašai/failai, sudaryti iš: 1 000, 10 000, 100 000, 1 000 000, 10 000 000 įrašų.
+  ## Ištestuota vector|list|deque sparta.
 ______________________________________________________________________
  ## Testavimo rezultatai (vector):
 ### studentai1000.txt
