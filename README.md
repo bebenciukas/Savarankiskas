@@ -1,4 +1,11 @@
 ## 1 savarankiškas darbas | v1.0
+## Naudojimosi instrukcija:
+
+1. Atsisiųskite v1.0 zip.
+2. Išsiarchyvuokite ant Desktop'o.
+3. Paleiskite Setup.bat naudodami administratoriaus teises.
+4.  C:\Program Files\VVK rasite visus sukurtus/(vos ne vos) įgyvendintus pirmojo savarankiško darbo failus.
+____________________________________________________________
 ## v1.0 - ištestuota strategija
 Ištestuota 2 strategija, parinktas partition metodas optimizavimui.
 ____________________________________________________________
