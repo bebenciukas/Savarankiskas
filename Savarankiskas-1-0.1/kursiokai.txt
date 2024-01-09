@@ -1,0 +1,6 @@
+Pavardė     Vardas      ND1  ND2   ND3  ND4  ND5  Egzaminas
+Jonas       Kapitonas    8    9     10   6    10   9
+Marsas      Marsietis    7    10    8    5    4    6
+Tomas       Batonas      2     3   6    3    4    1
+Rastas     Prarastas     7    8    4    2    1    7
+Olga       Volga         3    9    10    3    8    9
