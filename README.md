@@ -1,5 +1,7 @@
 ## 1 savarankiškas darbas | v1.0
-_____________________________________________________________
+## v1.0 - ištestuota strategija
+Ištestuota 2 strategija, parinktas partition metodas optimizavimui.
+____________________________________________________________
 ## v0.1 - studento įvedimas
 Sukurta programa, kuri :
 - leidžia ranka įvesti studento vardą, pavardę, n namų darbų ir egzamino įvertinimus;
@@ -22,7 +24,6 @@ Sparčiausias konteinerių tipas mano atveju - list.
 > Techniniai parametrai:
 > i9-9900k | 3600mhz 32Gb | Samsung 970 Evo 1TB NVMe M.2
 ______________________________________________________________
-## v1.0 - 
 
 
 
