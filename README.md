@@ -6,7 +6,7 @@ _____________________________________________________________
 - 100 000 įrašų;
 - 1 000 000 įrašų;
 - 10 000 000 įrašų.
-  ## Ištestuota vector|list|deque sparta.
+## Ištestuota vector|list|deque sparta.
 _____________________________________________________________
  ## Testavimo rezultatai (vector):
 ### studentai1000.txt
