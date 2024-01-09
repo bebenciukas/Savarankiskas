@@ -18,5 +18,6 @@ Ištestuoti 5 atsitiktinai sugeneruoti skirtingų dydžių tekstiniai duomenų f
 - 10 000 000 irašų.
   
 Sparčiausias konteinerių tipas mano atveju - list.
+> Nežinau dėl ko, bet viskas truko gerokai per ilgai. 10mil. studentų failą sutvarkyti užtruko >10min.
 
 
