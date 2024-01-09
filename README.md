@@ -19,5 +19,7 @@ Ištestuoti 5 atsitiktinai sugeneruoti skirtingų dydžių tekstiniai duomenų f
   
 Sparčiausias konteinerių tipas mano atveju - list.
 > Nežinau dėl ko, bet viskas truko gerokai per ilgai. 10mil. studentų failą sutvarkyti užtruko >10min.
+> Techniniai parametrai:
+> i9-9900k | 3600mhz 32Gb | Samsung 970 Evo 1TB NVMe M.2
 
 
