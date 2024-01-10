@@ -25,7 +25,8 @@
    > visą procesą (BendraTrukmė) |
    > duomenų skaitymą iš duoto .txt failo |
    > duomenų išskirstymą |
-   > naujų failų įrašymą; 
+   > naujų failų įrašymą;
+4. v1.0 versijoje yra įkeltas 'gener.cpp" kuris buvo naudojamas dideliems studentų failams generuoti (1 000 - 10 000 000) 
 ____________________________________________________________
 ## v1.0 - ištestuota strategija
 Ištestuota 2 strategija, parinktas partition metodas optimizavimui.
