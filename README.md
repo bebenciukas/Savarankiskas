@@ -22,10 +22,10 @@
 1. Sukompiliuokite v0.2 esantį main.cpp.
 2. Irašykite vieno iš .txt failų pavadinimą, kurį norėtumėte sutvarkyti (pvz. studentai10000.txt).
 3. Programa parodys laikus, kurie buvo išmatuoti vykdant:
-   > visą procesą (BendraTrukmė);
-   > duomenų skaitymą iš duoto .txt failo;
-   > duomenų išskirstymą;
-   > naujų failų įrašymą;
+   > visą procesą (BendraTrukmė) |
+   > duomenų skaitymą iš duoto .txt failo |
+   > duomenų išskirstymą |
+   > naujų failų įrašymą; 
 ____________________________________________________________
 ## v1.0 - ištestuota strategija
 Ištestuota 2 strategija, parinktas partition metodas optimizavimui.
