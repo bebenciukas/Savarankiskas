@@ -1,10 +1,31 @@
 ## 1 savarankiškas darbas | v1.0
 ## Naudojimosi instrukcija:
 
+## Failų "diegimo" (nukopijavimo) į reikiamą folderį žingsniai:
+
 1. Atsisiųskite v1.0 zip.
 2. Išsiarchyvuokite ant Desktop'o.
 3. Paleiskite Setup.bat naudodami administratoriaus teises.
 4.  C:\Program Files\VVK rasite visus sukurtus/(vos ne vos) įgyvendintus pirmojo savarankiško darbo failus.
+
+## v0.1 Naudojimosi instrukcija:
+
+1. Sukompiliuokite main.cpp
+2. Norint įvesti studento duomenis, įrašykite 1.
+3. Norint nuskaityti duomenis iš tekstinio failo (šiuo atveju - kursiokai.txt), įrašykite 2.
+4. Norint sugeneruoti studento įvertinimus atsitiktinai, įrašykite 3.
+5. Prieš atsitiktinį skaičių generavimą įveskite studento vardą ir pavardę.
+6. Rezultatai bus parodomi dėstytojo nurodyta forma.
+
+## v0.2 Naudojimosi instrukcija:
+
+1. Sukompiliuokite v0.2 esantį main.cpp.
+2. Irašykite vieno iš .txt failų pavadinimą, kurį norėtumėte sutvarkyti (pvz. studentai10000.txt).
+3. Programa parodys laikus, kurie buvo išmatuoti vykdant:
+   > visą procesą (BendraTrukmė);
+   > duomenų skaitymą iš duoto .txt failo;
+   > duomenų išskirstymą;
+   > naujų failų įrašymą;
 ____________________________________________________________
 ## v1.0 - ištestuota strategija
 Ištestuota 2 strategija, parinktas partition metodas optimizavimui.
